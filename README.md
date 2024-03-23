@@ -15,7 +15,8 @@ macOS:
 
 USB:
 
-    Mapping is for the "Performance Edition" Z2 Mini G5 which has an additional rear USB-C port compared to the base model.
+    Mapping is for the "Performance Edition" Z2 Mini G5 which has an additional
+    rear USB-C port compared to the base model.
     USBToolBox / UTBMap plist is annotated so it should be easy to remove this port.
 
 
