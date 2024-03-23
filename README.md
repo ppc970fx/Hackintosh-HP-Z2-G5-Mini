@@ -20,7 +20,7 @@ USB:
     USBToolBox / UTBMap plist is annotated so it should be easy to remove this port.
 
 
-EFI optional kext/device drivers:
+EFI optional kext/device driver:
 
     NIC:  Realtek FlexIO 1Gbit (USB)
     WLAN: Broadcom BCM4360 (M.2)
