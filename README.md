@@ -3,7 +3,7 @@ OpenCore HP Z2 Mini G5
 
 OpenCore Version:   0.9.9
 
-macOS Versions:     Monterey and Ventura 
+macOS Versions:     Monterey and Ventura
                     Sonoma should work except for Broadcom WLAN - NOT TESTED
  
 USB map is for the "Performance Edition" Z2 Mini G5 which has an additional rear USB-C port compared to the base model.
