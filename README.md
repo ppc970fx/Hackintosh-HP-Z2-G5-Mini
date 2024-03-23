@@ -22,5 +22,5 @@ USB:
 
 EFI optional kext/device driver:
 
-    NIC:  Realtek FlexIO 1Gbit (USB)
-    WLAN: Broadcom BCM4360 (M.2)
+    Realtek FlexIO 1Gbit NIC (USB)
+    
